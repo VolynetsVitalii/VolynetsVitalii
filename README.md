@@ -20,7 +20,6 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volynetsvitalii&show_icons=true&theme=dracula&locale=en&layout=compact" alt="volynetsvitalii" /></p>
-<p>&nbsp;</p>
+<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=volynetsvitalii&show_icons=true&theme=dracula&locale=en&layout=compact" alt="volynetsvitalii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volynetsvitalii&show_icons=true&theme=dracula&locale=en" alt="volynetsvitalii" /></p>
+<p  align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=volynetsvitalii&show_icons=true&theme=dracula&locale=en" alt="volynetsvitalii" /></p>
